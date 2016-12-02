@@ -1,0 +1,75 @@
+body{
+	font-family: "Roboto";
+}
+
+/* HOMEPAGE */
+
+.hero-txt{
+	color: #fff !important;
+}
+
+.navbar{
+	width: 100%;
+	margin-bottom: 0;
+	text-align: center;
+}
+
+.container{
+	padding-top: 100px;
+}
+
+
+.jumbotron{
+	background: url("../images/backgr.png") no-repeat center center fixed; 
+	height: 635px;
+	margin-bottom: 0;
+	text-align: center;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+.jumbo-txt{
+	padding-top: 150px;
+}
+
+/* ABOUT PAGE */
+
+.about-img{
+	width: 100%;
+}
+
+.contact-dets{
+	float: left;
+}
+
+/* FOOTER */
+
+footer{
+	width: 100%;
+	background-color: #eae9e9;
+	margin: 0 auto;
+	height: 60px;
+  	clear:both;
+  	position:fixed;
+    left:0px;
+    bottom:0px;
+}
+
+footer .container{
+	padding-top: 0;
+}
+
+.footer-row{
+	padding-top: 10px;
+}
+
+.social-icons{
+	float: right;
+}
+
+.img-responsive portfolio-img{
+	width: 280px;
+	height: 150px;
+}
